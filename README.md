@@ -4,9 +4,9 @@ Essa aplicação segue modelos do Framework Ionic e Angular.
 
 Aplicativo voltado para a matéria de Programação para Dispositivos Móveis.
 
-Professor: Paulo Mergulhão
+Professor: Paulo Mergulhão.
 
-Envolvidos: Jaime Juan, 20952210; Rafael Alves, 20765711; Vitor Sposina, (RGM); Wesley Silvestre, 21027242
+Envolvidos: Jaime Juan, 20952210; Rafael Alves, 20765711; Vitor Sposina, (RGM); Wesley Silvestre, 21027242.
 
 ## Ambientalizando
 
@@ -48,3 +48,8 @@ Envolvidos: Jaime Juan, 20952210; Rafael Alves, 20765711; Vitor Sposina, (RGM); 
 | Material Design  | iOS  |
 | -----------------| -----|
 | ![Android About](/resources/screenshots/android-about.png) | ![iOS About](/resources/screenshots/ios-about.png) |
+
+## Funcionalidades
+
+* Funcionalidade 1.
+* Funcionalidade 2.
