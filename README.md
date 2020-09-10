@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # (Nome do APP)
+=======
+# Ionic Angular Conference Application Wesley Silvestre
+>>>>>>> 480cebfc0130841763247b06c1f081ea3829b845
 
 Essa aplicação segue modelos do Framework Ionic e Angular.
 
