@@ -405,20 +405,45 @@
 
   "map": [
     {
-      "name": "Monona Terrace Convention Center",
-      "lat": 43.071584,
-      "lng": -89.38012,
+      "name": "Escola Estadual Antonio Teixeira Guerra",
+      "lat": 1.680883,
+      "lng": -49.942894
+    },
+    {
+      "name": "Escola Estadual Veiga Cabral",
+      "lat": 2.045040,
+      "lng": -50.787508
+    },
+    {
+      "name": "Escola Estadual Rozendo Nascimento Filho",
+      "lat": 2.051446,
+      "lng": -50.793904
+    },
+    {
+      "name": "Escola Municipal Profª Shirley Márcia Lobato Abreu",
+      "lat": 2.066797,
+      "lng": -50.866797
+    },
+    {
+      "name": "Escola Municipal Lourenço Borges Façanha",
+      "lat": 2.052035,
+      "lng": -50.790459
+    },
+    {
+      "name": "Escola Estadual Henrique Dias",
+      "lat": 2.051409,
+      "lng": -50.794569
+    },
+    {
+      "name": "Escola Estadual Vidal de Negreiros",
+      "lat": 2.045952,
+      "lng": -50.792558
+    },
+    {
+      "name": "Escola Municipal Francisco Alves de Oliveira",
+      "lat": 2.052259,
+      "lng": -50.794188,
       "center": true
-    },
-    {
-      "name": "Ionic HQ",
-      "lat": 43.074395,
-      "lng": -89.381056
-    },
-    {
-      "name": "Afterparty - Brocach Irish Pub",
-      "lat": 43.07336,
-      "lng": -89.38335
     }
   ],
 
