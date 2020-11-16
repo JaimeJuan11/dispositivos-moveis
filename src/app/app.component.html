@@ -5,7 +5,7 @@
       <ion-content>
         <ion-list lines="none">
           <ion-list-header>
-            Conferência
+            Menu
           </ion-list-header>
           <ion-menu-toggle autoHide="false" *ngFor="let p of appPages; let i = index">
             <ion-item [routerLink]="p.url" routerLinkActive="selected" routerDirection="root" detail="false">
@@ -28,15 +28,6 @@
               <ion-icon slot="start" name="person"></ion-icon>
               <ion-label>
                 Conta
-              </ion-label>
-            </ion-item>
-          </ion-menu-toggle>
-
-          <ion-menu-toggle autoHide="false">
-            <ion-item routerLink="/support" routerLinkActive="active" routerDirection="root" detail="false">
-              <ion-icon slot="start" name="help"></ion-icon>
-              <ion-label>
-                Suporte
               </ion-label>
             </ion-item>
           </ion-menu-toggle>
@@ -71,15 +62,6 @@
               <ion-icon slot="start" name="person-add"></ion-icon>
               <ion-label>
                 Registrar
-              </ion-label>
-            </ion-item>
-          </ion-menu-toggle>
-
-          <ion-menu-toggle autoHide="false">
-            <ion-item routerLink="/support" routerLinkActive="active" routerDirection="root" detail="false">
-              <ion-icon slot="start" name="help"></ion-icon>
-              <ion-label>
-                Suporte
               </ion-label>
             </ion-item>
           </ion-menu-toggle>
