@@ -4,239 +4,29 @@
       "date": "2047-05-17",
       "groups": [
         {
-          "time": "8:00 am",
+          "time": "7:00 am",
           "sessions": [
             {
-              "name": "Breakfast",
-              "timeStart": "8:00 am",
-              "timeEnd": "9:00 am",
-              "location": "Dining Hall",
-              "tracks": ["Food"],
+              "name": "Turno da Manhã",
+              "timeStart": "7:00 am",
+              "timeEnd": "12:00 am",
+              "location": "Macapá",
+              "description": "O TSE orienta que o horário das 7h às 10h seja preferencial para pessoas acima de 60 anos, um dos grupos considerados de risco para o coronavírus. Eleitores que não fazem parte do grupo de risco poderão votar neste horário, mas a ideia da recomendação é que sejam majoritariamente atendidos neste período do dia.",
+              "tracks": ["Votação"],
               "id": "1"
             }
           ]
         },
         {
-          "time": "9:15 am",
+          "time": "12:00 am",
           "sessions": [
             {
-              "name": "Getting Started with Ionic",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "9:30 am",
-              "timeEnd": "9:45 am",
-              "tracks": ["Ionic"],
+              "name": "Turno da Tarde",
+              "location": "Macapá",
+              "timeStart": "12:00 am",
+              "timeEnd": "17:00 am",
+              "tracks": ["Votação"],
               "id": "2"
-            },
-            {
-              "name": "Ionic Tooling",
-              "location": "Executive Ballroom",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "9:45 am",
-              "timeEnd": "10:00 am",
-              "tracks": ["Tooling"],
-              "id": "3"
-            },
-            {
-              "name": "University of Ionic",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ellie Elephant"],
-              "timeStart": "9:15 am",
-              "timeEnd": "9:30 am",
-              "tracks": ["Ionic"],
-              "id": "4"
-            }
-          ]
-        },
-        {
-          "time": "10:00 am",
-          "sessions": [
-            {
-              "name": "Migrating to Ionic",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Eva Eagle", "Lionel Lion"],
-              "timeStart": "10:00 am",
-              "timeEnd": "10:15 am",
-              "tracks": ["Ionic"],
-              "id": "5"
-            },
-            {
-              "name": "What's New in Angular",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "10:15 am",
-              "timeEnd": "10:30 am",
-              "tracks": ["Angular"],
-              "id": "6"
-            },
-            {
-              "name": "The Evolution of Ionicons",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Isabella Iguana", "Eva Eagle"],
-              "timeStart": "10:15 am",
-              "timeEnd": "10:30 am",
-              "tracks": ["Design"],
-              "id": "7"
-            },
-            {
-              "name": "Ionic Pro",
-              "location": "Grand Ballroom A",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Charlie Cheetah"],
-              "timeStart": "10:45 am",
-              "timeEnd": "11:00 am",
-              "tracks": ["Services"],
-              "id": "8"
-            }
-          ]
-        },
-        {
-          "time": "11:00 am",
-          "sessions": [
-            {
-              "name": "Ionic Workshop",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Karl Kitten", "Lionel Lion"],
-              "timeStart": "11:00 am",
-              "timeEnd": "11:45 am",
-              "tracks": ["Workshop"],
-              "id": "9"
-            },
-            {
-              "name": "Community Interaction",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
-              "timeStart": "11:30 am",
-              "timeEnd": "11:50 am",
-              "tracks": ["Communication"],
-              "id": "10"
-            },
-            {
-              "name": "Navigation in Ionic",
-              "location": "Grand Ballroom A",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
-              "timeStart": "11:30 am",
-              "timeEnd": "12:00 pm",
-              "tracks": ["Navigation"],
-              "id": "11"
-            }
-          ]
-        },
-        {
-          "time": "12:00 pm",
-          "sessions": [
-            {
-              "name": "Lunch",
-              "location": "Dining Hall",
-              "description": "Come grab lunch with all the Ionic fanatics and talk all things Ionic",
-              "timeStart": "12:00 pm",
-              "timeEnd": "1:00 pm",
-              "tracks": ["Food"],
-              "id": "12"
-            }
-          ]
-        },
-        {
-          "time": "1:00 pm",
-          "sessions": [
-            {
-              "name": "Ionic in the Enterprise",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Paul Puppy"],
-              "timeStart": "1:00 pm",
-              "timeEnd": "1:15 pm",
-              "tracks": ["Communication"],
-              "id": "13"
-            },
-            {
-              "name": "Ionic Worldwide",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Gino Giraffe"],
-              "timeStart": "1:15 pm",
-              "timeEnd": "1:30 pm",
-              "tracks": ["Communication"],
-              "id": "14"
-            },
-            {
-              "name": "The Ionic Package",
-              "location": "Grand Ballroom B",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Molly Mouse", "Burt Bear"],
-              "timeStart": "1:30 pm",
-              "timeEnd": "2:00 pm",
-              "tracks": ["Services"],
-              "id": "15"
-            }
-          ]
-        },
-        {
-          "time": "2:00 pm",
-          "sessions": [
-            {
-              "name": "Push Notifications in Ionic",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Burt Bear", "Charlie Cheetah"],
-              "timeStart": "2:00 pm",
-              "timeEnd": "2:30 pm",
-              "tracks": ["Services"],
-              "id": "16"
-            },
-            {
-              "name": "Ionic Documentation",
-              "location": "Grand Ballroom B",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Donald Duck"],
-              "timeStart": "2:30 pm",
-              "timeEnd": "2:45 pm",
-              "tracks": ["Documentation"],
-              "id": "17"
-            },
-            {
-              "name": "UX in Ionic",
-              "location": "Hall 3",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Isabella Iguana", "Ellie Elephant"],
-              "timeStart": "2:45 pm",
-              "timeEnd": "3:00 pm",
-              "tracks": ["Design"],
-              "id": "18"
-            }
-          ]
-        },
-        {
-          "time": "3:00",
-          "sessions": [
-            {
-              "name": "Angular Directives in Ionic",
-              "location": "Hall 1",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Ted Turtle"],
-              "timeStart": "3:00 pm",
-              "timeEnd": "3:30 pm",
-              "tracks": ["Angular"],
-              "id": "19"
-            },
-            {
-              "name": "Mobile States",
-              "location": "Hall 2",
-              "description": "Mobile devices and browsers are now advanced enough that developers can build native-quality mobile apps using open web technologies like HTML5, Javascript, and CSS. In this talk, we’ll provide background on why and how we created Ionic, the design decisions made as we integrated Ionic with Angular, and the performance considerations for mobile platforms that our team had to overcome. We’ll also review new and upcoming Ionic features, and talk about the hidden powers and benefits of combining mobile app development and Angular.",
-              "speakerNames": ["Rachel Rabbit"],
-              "timeStart": "3:30 pm",
-              "timeEnd": "3:45 pm",
-              "tracks": ["Navigation"],
-              "id": "20"
             }
           ]
         }
@@ -249,7 +39,7 @@
       "name": "Marcos Roberto",
       "profilePic": "/assets/img/speakers/marcos.jpg",
       "instagram": "",
-      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13",
+      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13.",
       "title": "PT",
       "id": "1"
     },
@@ -257,63 +47,63 @@
       "name": "Gianfranco Gusmão",
       "profilePic": "/assets/img/speakers/gianfranco.jpg",
       "instagram": "",
-      "about": "Professor Gianfranco, candidato ao cargo de prefeito em Macapá-AP pelo PSTU. Natural de Macapá - AP, e tem 47 anos de idade. Número: 16",
+      "about": "Professor Gianfranco, candidato ao cargo de prefeito em Macapá-AP pelo PSTU. Natural de Macapá - AP, e tem 47 anos de idade. Número: 16.",
       "title": "PSTU",
       "id": "2"
     },{
       "name": "Guaracy Batista",
       "profilePic": "/assets/img/speakers/guaracy.jpeg",
       "instagram": "",
-      "about": "Guaracy Batista Silveira Junior, de 46 anos, mora no bairro Santa Inês, próximo à orla de Macapá. Ele nasceu em Belém do Pará, mas veio pro Amapá pela primeira vez há 38 anos. Filho de comerciante, o então empresário concorre pelo partido PSL. Número: 13",
+      "about": "Guaracy Batista Silveira Junior, de 46 anos, mora no bairro Santa Inês, próximo à orla de Macapá. Ele nasceu em Belém do Pará, mas veio pro Amapá pela primeira vez há 38 anos. Filho de comerciante, o então empresário concorre pelo partido PSL. Número: 13.",
       "title": "PSL",
       "id": "3"
     },{
       "name": "Patricia Lima",
       "profilePic": "/assets/img/speakers/patricia.jpeg",
       "instagram": "",
-      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13",
+      "about": "Cirurgiã-dentista, a candidata exerce seu primeiro mandato como deputada federal pelo Amapá, obtido com 12.950 votos em 2018. Ela também é presidente estadual do Podemos. Natural de Belo Horizonte, Patrícia Ferraz é divorciada e tem 40 anos. Número: 19.",
       "title": "PODE",
       "id": "4"
     },{
       "name": "Dr. Furlan",
       "profilePic": "/assets/img/speakers/furlan.jpg",
       "instagram": "",
-      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13",
+      "about": "O candidato Antônio de Oliveira Furlan (Cidadania) tem 47 anos, e mora na Zona Sul de Macapá há 7 anos. Dr. Furlan, como é chamado, é casado com Rayssa Furlan, e tem 7 filhos. E é com a criançada que o candidato aproveita todo momento possível, principalmente no fim de semana, pra descontrair. Dr. Furlan nasceu na Costa Rica, quando os pais dele, José e Mirian, mudaram de país pra estudar. Número: 23.",
       "title": "Cidadania",
       "id": "5"
     },{
       "name": "Josiel",
       "profilePic": "/assets/img/speakers/josiel.jpg",
       "instagram": "",
-      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13",
+      "about": "Empresário e jornalista, o candidato é irmão do presidente do Senado, Davi Alcolumbre (DEM-AP). Em 2014, ele se elegeu suplente de Davi na Casa. Josiel é presidente do Diretório do Democratas em Macapá. Ele é casado e tem 47 anos. Número: 25.",
       "title": "DEM",
       "id": "6"
     },{
       "name": "Cirilo Fernandes",
       "profilePic": "/assets/img/speakers/cirilo.jpg",
       "instagram": "",
-      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13",
+      "about": "Administrador, o candidato é servidor público federal. Em 2018 ele se candidatou ao governo do Amapá, obtendo 11% dos votos. Em seu material de campanha, Fernandes se apresenta associado ao nome do presidente Jair Bolsonaro (sem partido). O candidato é casado e tem 53 anos. Número: 28.",
       "title": "PRTB",
       "id": "7"
     },{
       "name": "Haroldo Iram",
       "profilePic": "/assets/img/speakers/haroldo.jpg",
       "instagram": "",
-      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13",
+      "about": "Haroldo Iran Gomes da Silva, de 55 anos, é formado em engenharia mecânica e servidor público lotado como agente da Polícia Rodoviária Federal. É amapaense, casado e pai de um filho. Concorreu na eleição de 2018 ao cargo de deputado estadual, mas não foi eleito. É a primeira vez que disputa a prefeitura da capital. Número: 36.",
       "title": "PTC",
       "id": "8"
     },{
       "name": "Capi",
       "profilePic": "/assets/img/speakers/capi.jpg",
       "instagram": "",
-      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13",
+      "about": "Zootecnista, João Alberto Capiberibe é natural de Afuá no Pará, e tem 73 anos. Ele foi prefeito de Macapá, entre 1989 e 1992, governador do Amapá entre 1995 e 2002 e senador, no mandato de 2011 a 2019 pelo PSB. Número: 40.",
       "title": "PSB",
       "id": "9"
     },{
       "name": "Paulo Lemos",
       "profilePic": "/assets/img/speakers/paulo.jpg",
       "instagram": "",
-      "about": "Professor Marcos, candidato ao cargo de prefeito em Macapá-AP pelo PT. Natural de Macapá - AP, Marcos Roberto Marques da Silva nasceu em 19/04/1971 e tem 49 anos de idade. Número: 13",
+      "about": "Paulo César Lemos de Oliveira, de 48 anos, é casado há 26 anos com Shirlene Costa; é pai da Carolina e tem um enteado, o Fiilipe. Paulo Lemos é da cidade de Baião, no interior do Pará, onde tinha uma vida simples, mas com boa orientação. É professor da rede pública estadual, advogado e já foi secretário de administração de Macapá. Número: 50.",
       "title": "PSOL",
       "id": "10"
     }
