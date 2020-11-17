@@ -2,7 +2,7 @@
 <widget id="com.ionicframework.conferenceapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Dispositivos Móveis App</name>
     <description>Aplicativo da Matéria Dispositivos Móveis</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Jaime Juan, Rafael Alves, Vitor Sposina e Wesley Silvestre</author>
+    <author email="hi@ionicframework" href="http://ionicframework.com/">Jaime Juan, Rafael Alves e Wesley Silvestre</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
