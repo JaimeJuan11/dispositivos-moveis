@@ -64,6 +64,7 @@
     "@types/jasminewd2": "2.0.8",
     "@types/node": "^12.12.26",
     "codelyzer": "^5.2.1",
+    "cordova-androidx-build": "^1.0.4",
     "cordova-plugin-googlemaps": "git+https://github.com/mapsplugin/cordova-plugin-googlemaps.git#multiple_maps",
     "jasmine-core": "^3.5.0",
     "jasmine-spec-reporter": "4.2.1",
@@ -88,7 +89,9 @@
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-splashscreen": {},
       "cordova-plugin-whitelist": {},
-      "cordova-plugin-ionic-webview": {},
+      "cordova-plugin-ionic-webview": {
+        "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+"
+      },
       "cordova-plugin-statusbar": {},
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-googlemaps": {}
