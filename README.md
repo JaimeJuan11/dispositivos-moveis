@@ -42,7 +42,7 @@ Envolvidos: Jaime Juan, 20952210; Rafael Alves, 20765711; Wesley Silvestre, 2102
 ### No terminal, ir para a pasta da aplicação
 ### Rodar a aplicação com `ionic cordova run android`
 ### Caso peça algum pacote a ser instalado, assim o faça.
-### Em caso de erro de JDK dirigir-se até `platforms > cordova > lib > check_reqs.js` e arrumar a `linha 372` com a respectiva versão.
+### Em caso de erro de JDK dirigir-se até `platforms > cordova > lib > check_reqs.js` e arrumar a `linha 370` com a respectiva versão.
 ### No chrome, acessar a [url](chrome://inspect/#devices) `chrome://inspect/#devices` e verificar se o celular aparece
 ### Quando aparecer o dispositivo, clicar no item `inspect` para o aplicativo também rodar no browser.
 ### Para colocar um breakpoint, inserir no código uma linha com `debugger;`
